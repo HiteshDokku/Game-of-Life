@@ -6,9 +6,8 @@
 
 Simulates life. Evolves patterns. Zero unrestricted actions.
 
-![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/PYGAME-2.x-5C3EE8?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-LATEST-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3.12.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/PYGAME-2.5.8-5C3EE8?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
